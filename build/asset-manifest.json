@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simulator-tweets/build/static/css/main.def55387.css",
+    "main.js": "/simulator-tweets/build/static/js/main.d33ae382.js",
+    "static/js/787.332fabea.chunk.js": "/simulator-tweets/build/static/js/787.332fabea.chunk.js",
+    "static/media/twitter-logo.png": "/simulator-tweets/build/static/media/twitter-logo.b413b75b86f226240110.png",
+    "index.html": "/simulator-tweets/build/index.html",
+    "main.def55387.css.map": "/simulator-tweets/build/static/css/main.def55387.css.map",
+    "main.d33ae382.js.map": "/simulator-tweets/build/static/js/main.d33ae382.js.map",
+    "787.332fabea.chunk.js.map": "/simulator-tweets/build/static/js/787.332fabea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def55387.css",
+    "static/js/main.d33ae382.js"
+  ]
+}
